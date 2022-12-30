@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: StrategyFactoryProximityTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.071 s <<< FAILURE! - in StrategyFactoryProximityTest
+proximityTest  Time elapsed: 0.059 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "Object.notify()" because "lot" is null
+	at StrategyFactoryProximityTest.proximityTest(StrategyFactoryProximityTest.java:23)
+

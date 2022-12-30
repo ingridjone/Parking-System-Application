@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: NewEmptyJUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.013 s <<< FAILURE! - in NewEmptyJUnitTest
+test  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at NewEmptyJUnitTest.<clinit>(NewEmptyJUnitTest.java:1)
+
